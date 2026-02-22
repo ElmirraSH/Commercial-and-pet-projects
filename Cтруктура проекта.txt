@@ -1,0 +1,10 @@
+Pharma market dashboard/
+│
+├── pharma_registry_normalization.ipynb
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── dashboard_screenshots/
+├── all_countries.csv
+└── README.md
